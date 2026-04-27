@@ -25,7 +25,7 @@ This repository is a **UE 5.6.1 integration demo project** that bundles three pl
 > [!WARNING]
 > A trial license key is required. Without it the acoustics will not work.
 >
-> Request one at contact@excitedwaves.com and enter it in **Project Settings > Plugins > Excited Waves Acoustics**.
+> Request one at contact@excitedwaves.com and enter it in **Project Settings > Plugins > Excited Waves**.
 
 <img src="PublicDocs/01_License.png" width="500" alt="License key">
 

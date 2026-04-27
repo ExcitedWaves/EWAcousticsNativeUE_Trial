@@ -10,7 +10,7 @@
 
 ---
 
-Excited Waves Acoustics is a runtime acoustics SDK. It analyzes geometry around every sound source with optimized raycasting and automatically drives reverbs and early reflections. No baking or manual authoring is needed.
+[Excited Waves Acoustics](https://excitedwaves.com) is a runtime game acoustics SDK. It analyzes geometry around every sound source with optimized raycasting and automatically drives reverbs and early reflections. No baking or manual authoring is needed.
 
 This repository is a **UE 5.6.1 integration demo project** that bundles three plugins on the **Native UE Audio** path:
 

@@ -1,0 +1,34 @@
+{
+    "FileVersion": 3,
+    "Version": 200,
+    "VersionName": "0.2.0",
+    "FriendlyName": "Excited Waves Acoustics - Native UE Audio",
+    "Description": "Submix send integration for Excited Waves Acoustics using Unreal Audio Mixer",
+    "Category": "Audio",
+    "CreatedBy": "Excited Waves",
+    "CreatedByURL": "https://excitedwaves.com/",
+    "DocsURL": "https://excitedwaves.gitbook.io/excitedwaves-docs",
+    "MarketplaceURL": "",
+    "SupportURL": "mailto:contact@excitedwaves.com",
+    "CanContainContent": true,
+    "IsBetaVersion": true,
+    "IsExperimentalVersion": false,
+    "Installed": true,
+    "Modules": [
+        {
+            "Name": "ExcitedWavesAcousticsNative",
+            "Type": "Runtime",
+            "LoadingPhase": "PostDefault",
+            "AdditionalDependencies": [
+                "Engine",
+                "ExcitedWavesAcoustics"
+            ]
+        }
+    ],
+    "Plugins": [
+        {
+            "Name": "ExcitedWavesAcoustics",
+            "Enabled": true
+        }
+    ]
+}

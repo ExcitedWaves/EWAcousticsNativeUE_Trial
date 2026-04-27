@@ -1,0 +1,10 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"ExcitedWavesAcoustics": "UnrealEditor-ExcitedWavesAcoustics.dll",
+		"ExcitedWavesAcousticsBenchmark": "UnrealEditor-ExcitedWavesAcousticsBenchmark.dll",
+		"ExcitedWavesAcousticsEditor": "UnrealEditor-ExcitedWavesAcousticsEditor.dll",
+		"ExcitedWavesAcousticsSDK": "UnrealEditor-ExcitedWavesAcousticsSDK.dll"
+	}
+}

@@ -1,0 +1,34 @@
+{
+    "FileVersion": 3,
+    "Version": 200,
+    "VersionName": "0.2.0",
+    "FriendlyName": "Excited Waves Acoustics - Chaos Destruction",
+    "Description": "Chaos destruction integration for Excited Waves Acoustics. Triggers acoustic recalculation when geometry collections break.",
+    "Category": "Audio",
+    "CreatedBy": "Excited Waves",
+    "CreatedByURL": "https://excitedwaves.com/",
+    "DocsURL": "https://excitedwaves.gitbook.io/excitedwaves-docs",
+    "MarketplaceURL": "",
+    "SupportURL": "mailto:contact@excitedwaves.com",
+    "CanContainContent": false,
+    "IsBetaVersion": true,
+    "IsExperimentalVersion": false,
+    "Installed": true,
+    "Modules": [
+        {
+            "Name": "ExcitedWavesAcousticsChaos",
+            "Type": "Runtime",
+            "LoadingPhase": "Default",
+            "AdditionalDependencies": [
+                "Engine",
+                "ExcitedWavesAcoustics"
+            ]
+        }
+    ],
+    "Plugins": [
+        {
+            "Name": "ExcitedWavesAcoustics",
+            "Enabled": true
+        }
+    ]
+}

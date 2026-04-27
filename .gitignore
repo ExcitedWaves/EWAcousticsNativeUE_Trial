@@ -1,0 +1,85 @@
+# --- IDE & editors ---
+.vs/
+.vscode/
+.idea/
+.cursor/
+*.user
+*.suo
+*.sln.docstates
+*.DotSettings.user
+*.uproject.DotSettings.user
+*.workspace
+*.sublime-project
+*.sublime-workspace
+
+# --- UE build / cache (project root only) ---
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+
+# --- Plugin cache (Binaries are tracked) ---
+Plugins/*/Intermediate/
+Plugins/*/Build/
+
+# --- Debug symbols (not needed for runtime) ---
+*.pdb
+
+# --- Profiling data ---
+*.prof
+
+# --- User-specific ---
+*.wsettings
+*.validationcache
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/EditorPerProjectUserSettings.ini
+
+# --- Packaging output ---
+WindowsNoEditor/
+LinuxNoEditor/
+MacNoEditor/
+
+# --- UE / VS DB ---
+*.VC.db
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db-*
+
+# --- Marketplace ---
+*.upluginmanifest
+
+# --- OS ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Logs & temp ---
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# --- Crash / local ---
+CrashReportClient/
+
+# --- Version control (other) ---
+.p4config
+.p4ignore
+.plastic/
+
+# --- Optional / dev ---
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class

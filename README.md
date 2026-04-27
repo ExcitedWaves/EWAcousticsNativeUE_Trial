@@ -1,6 +1,8 @@
 # Excited Waves Acoustics – UE Native Audio Integration
 
-**Unreal Engine 5.6.1 · Win64 · Beta**
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.6.1-blue)](https://www.unrealengine.com/)
+[![Platform](https://img.shields.io/badge/Platform-Win64-lightgrey)]()
+[![Status](https://img.shields.io/badge/Status-Beta-orange)]()
 
 <https://excitedwaves.com> · <contact@excitedwaves.com>
 

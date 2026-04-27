@@ -34,14 +34,14 @@ This repository is a **UE 5.6.1 integration demo project** that bundles three pl
    | Key | Action |
    |-----|--------|
    | `0` | Toggle system on/off |
-   | `1` | Show results above nearby emitters |
+   | `1` | Show results above nearby sound sources (detectors) |
    | `2` | Show rays |
    | `3` | Show hit points |
    | `4` | Show detector positions |
    | `5` | Dry-to-reverb ratio drive |
    | `6` | Cross-room on/off |
    | `M` | Solo reverbs on/off |
-3. To integrate into your own project, follow the docs: [Unreal Engine — Native Audio](https://excitedwaves.gitbook.io/excitedwaves-docs/unreal-engine-native-audio)
+3. To integrate into your own project, follow the docs: [Unreal Engine – Native Audio](https://excitedwaves.gitbook.io/excitedwaves-docs/unreal-engine-native-audio)
 
 ## What's What
 

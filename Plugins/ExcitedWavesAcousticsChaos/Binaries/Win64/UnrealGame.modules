@@ -1,7 +1,6 @@
 {
 	"BuildId": "47537391",
-	"Modules": 
-	{
+	"Modules": {
 		"ExcitedWavesAcousticsChaos": "UnrealEditor-ExcitedWavesAcousticsChaos.dll"
 	}
 }
